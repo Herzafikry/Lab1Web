@@ -3,8 +3,12 @@ Pertama, buat file baru dengan nama **lab1_tag_dasar.html** dan tambahkan tag da
 HTML. Kemudian selanjutnya, buka file tersebut pada web browser misalnya **Microsoft EDGE**.
 ![Screenshot (287)](https://user-images.githubusercontent.com/56195644/113330546-0f171a00-9349-11eb-8346-ab2a6c15d9cf.png)
 ![Screenshot (267)](https://user-images.githubusercontent.com/56195644/113330809-59000000-9349-11eb-8c62-a90f3e8eb64b.png)
+Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut. Selanjutnya simpan kembali perubahannya, dan lakukan refresh pada web browser, lihat hasilnya.
 ![Screenshot (268)](https://user-images.githubusercontent.com/56195644/113330889-7208b100-9349-11eb-9bae-4516c8a93cf6.png)
 ![Screenshot (269)](https://user-images.githubusercontent.com/56195644/113330935-8056cd00-9349-11eb-8829-72abf4e4e5f8.png)
+Kemudian atur atribut paragraf seperti berikut, dan amati perubahanya. Simpan kembali dan amati perubahannya dengan melakukan refresh pada web browser. 
+Selanjutnya silakan ubah-ubah nilai atributnya (_align => justify, left, right, dan center_) untuk melihat 
+perbedaan lainnya. 
 ![Screenshot (270)](https://user-images.githubusercontent.com/56195644/113330959-8ba9f880-9349-11eb-859f-788efceace9e.png)
 ![Screenshot (271)](https://user-images.githubusercontent.com/56195644/113331000-98c6e780-9349-11eb-9818-12e8d04077ee.png)
 ![Screenshot (272)](https://user-images.githubusercontent.com/56195644/113331043-a7150380-9349-11eb-8118-43c5e1891672.png)
