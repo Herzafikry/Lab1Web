@@ -22,9 +22,13 @@ Lalu tambahkan judul dengan cara dibawah ini. Simpan perubahannya dan lihat hasi
 
 ![Screenshot (276)](https://user-images.githubusercontent.com/56195644/113331206-d7f53880-9349-11eb-9269-e35e5a34ac8f.png)
 ![Screenshot (277)](https://user-images.githubusercontent.com/56195644/113331240-e3486400-9349-11eb-9f01-66c45f219cf4.png)
+
+Setelah itu untuk memformat teks dan menyisipkan gambar bisa dicoba seperti dibawah ini.
 ![Screenshot (288)](https://user-images.githubusercontent.com/56195644/113331411-273b6900-934a-11eb-87cb-c3f1b29e16f4.png)
 ![Screenshot (289)](https://user-images.githubusercontent.com/56195644/113331825-9a44df80-934a-11eb-8663-cc382df36c49.png)
 ![Screenshot (281)](https://user-images.githubusercontent.com/56195644/113331917-b6e11780-934a-11eb-910b-8cf683c15245.png)
 ![Screenshot (282)](https://user-images.githubusercontent.com/56195644/113331946-c2ccd980-934a-11eb-8fe4-98a9927d7433.png)
 ![Screenshot (285)](https://user-images.githubusercontent.com/56195644/113332029-db3cf400-934a-11eb-80f6-1fa43495cedc.png)
 ![Screenshot (286)](https://user-images.githubusercontent.com/56195644/113332055-e3952f00-934a-11eb-80a2-7b5a84babbac.png)
+
+Terimakasih, mohon maaf jika banyak kekurangannya.
