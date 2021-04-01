@@ -1,4 +1,6 @@
 # Lab1Web
+Pertama, buat file baru dengan nama **lab1_tag_dasar.html** dan tambahkan tag dasar dokumen 
+HTML. Kemudian selanjutnya, buka file tersebut pada web browser misalnya **Microsoft EDGE**.
 ![Screenshot (287)](https://user-images.githubusercontent.com/56195644/113330546-0f171a00-9349-11eb-8346-ab2a6c15d9cf.png)
 ![Screenshot (267)](https://user-images.githubusercontent.com/56195644/113330809-59000000-9349-11eb-8c62-a90f3e8eb64b.png)
 ![Screenshot (268)](https://user-images.githubusercontent.com/56195644/113330889-7208b100-9349-11eb-9bae-4516c8a93cf6.png)
